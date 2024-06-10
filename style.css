@@ -1,0 +1,17 @@
+html{
+    background-color: #FEFFD2;
+
+}
+h1{
+    color: #d30fa5;
+    background-color: #ffdcb4;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#name{
+    color: #d30fa5;
+    background-color: #ffdcb4;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#contact{
+    font-size:x-large;
+}
